@@ -4,8 +4,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "node --env-dev .env --watch bin/start.js",
-    "prod": "node --env-prod .env --watch bin/start.js",
+    "dev": "node --env-file=.env-dev --watch bin/start.js",
+    "prod": "node --env-file=.env-prod bin/start.js",
     "start": "node bin/start.js"
   },
   "dependencies": {
