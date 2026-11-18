@@ -8,7 +8,7 @@ import usersRouter from './routes/users.js';
 import mongoose from 'mongoose';
 
 await mongoose.connect(
-  process.env.DATABASE_URL ?? 'mongodb+srv://leahaeberli03_db_user:xZ4jTJbqsylS3Yh0@cluster0.wdt6ec1.mongodb.net'
+  process.env.DATABASE_URL
 );
 
 const app = express();
