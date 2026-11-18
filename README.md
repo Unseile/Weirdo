@@ -76,6 +76,6 @@ npm run dev
 
 
 ## Liens utiles
-Instructions partie ArchiOWeb : https://github.com/MediaComem/comem-archioweb#project-roadmap
-Instructions partie DevMobil : https://chabloz.eu/devmobil/index.html
-FigJam (privé) : https://www.figma.com/board/QBPahGbmvWJFmnXWyEjZlP/brainstorm-archioweb?node-id=0-1&t=nKbcA1XfUSrFUM0A-1
+- Instructions partie ArchiOWeb : https://github.com/MediaComem/comem-archioweb#project-roadmap
+- Instructions partie DevMobil : https://chabloz.eu/devmobil/index.html
+- FigJam (privé) : https://www.figma.com/board/QBPahGbmvWJFmnXWyEjZlP/brainstorm-archioweb?node-id=0-1&t=nKbcA1XfUSrFUM0A-1
